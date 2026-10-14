@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/USERNAME/REPOSITORY">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=800&amp;size=34&amp;pause=1000&amp;color=FF1744&amp;background=0B0B0F&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=INDIA+IPTV;LIVE+TV+%7C+MOVIES+%7C+SERIES;XTREAM+%7C+STALKER%2FMAG+%7C+M3U%2FM3U8" alt="INDIA IPTV animated title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=800&amp;size=34&amp;pause=1000&amp;color=FF1744&amp;background=0B0B0F&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=WELCOME+TO+Tapas-Creation;LIVE+TV+%7C+MOVIES+%7C+SERIES;XTREAM+%7C+STALKER%2FMAG+%7C+M3U%2FM3U8" alt="INDIA IPTV animated title" />
 </a>
 
 **একটি লাল-কালো থিমের Android IPTV অ্যাপ**
